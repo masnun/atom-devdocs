@@ -4,7 +4,7 @@
   "version": "0.1.0",
   "private": true,
   "author": "Abu Ashraf Masnun",
-  "description": "A short description of your package",
+  "description": "Put your cursor on a keyword and search for it using the 'doc' command",
   "activationEvents": [
     "doc"
   ],
