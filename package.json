@@ -1,7 +1,7 @@
 {
   "name": "devdocs",
   "main": "./lib/devdocs",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": true,
   "author": "Abu Ashraf Masnun",
   "description": "Put your cursor on a keyword and search for it using the 'doc' command",
