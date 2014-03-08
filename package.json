@@ -1,16 +1,17 @@
 {
   "name": "devdocs",
   "main": "./lib/devdocs",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "private": true,
   "author": "Abu Ashraf Masnun",
   "description": "A short description of your package",
-  "activationEvents": ["doc"],
+  "activationEvents": [
+    "doc"
+  ],
   "repository": "https://github.com/masnun/atom-devdocs",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
