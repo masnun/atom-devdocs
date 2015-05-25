@@ -3,12 +3,14 @@
   "main": "./lib/devdocs",
   "version": "0.2.0",
   "private": true,
-  "author": "Abu Ashraf Masnun",
+  "author": {
+    "name": "Abu Ashraf Masnun"
+  },
   "description": "Put your cursor on a keyword and search for it using the 'doc' command",
-  "activationEvents": [
-    "doc"
-  ],
-  "repository": "https://github.com/masnun/atom-devdocs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/masnun/atom-devdocs"
+  },
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
