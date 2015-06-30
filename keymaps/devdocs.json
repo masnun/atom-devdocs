@@ -1,1 +1,5 @@
-{}
+{
+  "atom-text-editor": {
+    "ctrl-alt-d": "devdocs:doc"
+  }
+}
